@@ -1,0 +1,19 @@
+/* TEMA VERDE */
+
+body{
+    background: url("../img/hojas.jpg");
+    background-attachment: fixed;
+}
+
+#logo{
+    background-color:#20603B;
+  
+}
+
+#menu ul li:hover{
+    background: #20603B;
+}
+
+.button-more{
+    background: #20603B;
+}
