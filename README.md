@@ -1,6 +1,6 @@
 ﻿# Template-Website---JQuery
  
-###[Live Site](https://websitetemplate.netlify.app)
+###  [Live Site](https://websitetemplate-jquery.netlify.app/)
  
 This is a multi-usable web page template.
 Programmed with JavaScript and Jquery using libraries like JQuery-UI, momentJS and JQuery Form Validator.
